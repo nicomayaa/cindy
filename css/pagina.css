@@ -1,0 +1,34 @@
+h1{
+    background-color: pink;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+footer{
+    background-color: lightblue;
+    margin-top: 100px;
+}
+.producto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    margin-top: 10px;
+}
+
+h2{
+    text-align: center;
+}
